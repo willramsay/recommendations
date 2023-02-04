@@ -7,6 +7,7 @@
 ## Thinking about (European) Literature
 * Viktor Shklovsky, *On the Theory of Prose*, 1925
 * Erich Auerbach, *Mimesis: The Representation of Reality in Western Literature*, 1946
+A great book.
 * Ernst Robert Curtius, *European Literature and the Latin Middle Ages*, 1948
 * Gilbert Highet, *The Classical Tradition: Greek and Roman Influences on Western Literature*, 1949
 * Northrop Frye, *Anatomy of Criticism: Four Essays*, 1957
