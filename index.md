@@ -1,4 +1,4 @@
-# Recommended Books on Literature
+# Recommended Books on Literature and Art
 
 ## Thinking about Criticism
 C. S. Lewis, *An Experiment in Criticism*, 1961
@@ -70,27 +70,42 @@ George Hoffmann, *Montaigne’s Career*, 1999
 David Quint, *Inside Paradise Lost: Reading the Designs of Milton’s Epic*, 2014
 * blurb Barbara Lewalski, *Paradise Lost and the Rhetoric of Literary Forms* 
 
-## Thinking about Art
+## Thinking about (European) Art
+
+### General History of Art
 Ernst Gombrich, *The Story of Art,* 1950 
 * blurb
+
+### A Few Technical Matters
 
 James Watrous, *The Craft of Old-Master Drawings,* 1957
 * blurb
 
+Waldemar Januszczak, *Techniques of the Great Masters of Art*, 1985
+* blurb
+
+Christopher de Hamlet, *Making Medieval Manuscripts*, 2017 
+* blurb
+
+### Some Major Studies and Approaches
+
+#### Psychology and Art
+
 Ernst Gombrich, *Art and Illusion: A Study in the Psychology of Pictorial Representation,* 1960 
-* blurb
-
-Raymond Klibansky, Erwin Panofksy, and Fritz Saxl, *Saturn and Melancholy: Studies in the History of Natural Philosophy, Religion, and Art*, 1964
-* blurb
-
-Michael Baxandall, *Limewood Sculptors of Renaissance Germany,* 1980
 * blurb
 
 Richard Wollheim, *Painting as an Art,* 1981 
 * blurb
 
-Waldemar Januszczak, *Techniques of the Great Masters of Art*, 1985
+#### Intellectual History and Art
+Raymond Klibansky, Erwin Panofksy, and Fritz Saxl, *Saturn and Melancholy: Studies in the History of Natural Philosophy, Religion, and Art*, 1964
 * blurb
+
+#### Social History and Art
+Michael Baxandall, *Limewood Sculptors of Renaissance Germany,* 1980
+* blurb
+
+### Intellectual History of the Concepts of "Art" and "Beauty"
 
 David Konstan, *Beauty: The Fortunes of an Ancient Greek Idea,* 2014
 * blurb
@@ -106,3 +121,10 @@ James I. Porter, "Is Art Modern? Kristeller's Modern System of the Arts Reconsid
 
 James O. Young, "The Ancient and Modern System of the Arts," *The British Journal of Aesthetics*, Volume 55, Issue 1, January 2015, pages 1–17 
 * blurb
+
+
+
+
+
+
+
