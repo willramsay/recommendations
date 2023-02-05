@@ -104,7 +104,7 @@ importance of the twentieth-century avant-garde, to produce a philosophy of art 
 of art and an interaction between artist and audience that allowed for
 both mutual understanding and yet room for autonomy on each side.
 Wollheim thus synthesized the three main strands of modern aesthetic
-theory that have been recognized throughout this study and in so doing
+theory [to paraphrase: aesthetic experience as knowledge, as emotional experience, or as play of the imagination] that have been recognized throughout this study and in so doing
 produced one of the most important aesthetic theories of the second
 half of the twentieth century." 
 
