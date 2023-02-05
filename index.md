@@ -29,6 +29,8 @@ Erich Auerbach, *Literary Language and Its Public in Late Latin Antiquity and in
 Alastair Fowler, *Kinds of Literature: An Introduction to the Theory of Genres and Modes*, 1982
 * blurb
 
+Brian Vickers, *In Defence of Rhetoric*, 1988 
+
 Earl Miner, *Comparative Poetics: An Intercultural Essay on Theories of Literature*, 1990
 * blurb
 
