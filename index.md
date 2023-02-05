@@ -37,6 +37,7 @@ Alastair Fowler, *Kinds of Literature: An Introduction to the Theory of Genres a
 * blurb
 
 Brian Vickers, *In Defence of Rhetoric*, 1988 
+* blurb
 
 Earl Miner, *Comparative Poetics: An Intercultural Essay on Theories of Literature*, 1990
 * blurb
