@@ -76,44 +76,40 @@ David Quint, *Inside Paradise Lost: Reading the Designs of Milton’s Epic*, 201
 Ernst Gombrich, *The Story of Art,* 1950 
 * blurb
 
-### A Few Technical Matters
-
-James Watrous, *The Craft of Old-Master Drawings,* 1957
-* blurb
-
 Waldemar Januszczak, *Techniques of the Great Masters of Art*, 1985
 * blurb
 
-Christopher de Hamlet, *Making Medieval Manuscripts*, 2017 
-* blurb
-
-### Some Major Studies and Approaches
-
-#### Psychology and Art
+### Some Major Studies
 
 Ernst Gombrich, *Art and Illusion: A Study in the Psychology of Pictorial Representation,* 1960 
 * blurb
 
 Richard Wollheim, *Painting as an Art,* 1981 
-* blurb
+* Paul Guyer: "Richard Wollheim (1923–2003) drew on
+Wittgenstein, Freud, and a profound experience and knowledge of the
+arts, above all painting, that was not distorted by exaggeration of the
+importance of the twentieth-century avant-garde, to produce a philosophy of art that recognized the cognitive and expressive dimensions
+of art and an interaction between artist and audience that allowed for
+both mutual understanding and yet room for autonomy on each side.
+Wollheim thus synthesized the three main strands of modern aesthetic
+theory that have been recognized throughout this study and in so doing
+produced one of the most important aesthetic theories of the second
+half of the twentieth century." 
 
-#### Intellectual History and Art
 Raymond Klibansky, Erwin Panofksy, and Fritz Saxl, *Saturn and Melancholy: Studies in the History of Natural Philosophy, Religion, and Art*, 1964
-* blurb
+* Elizabeth Honig, *Pieter Bruegel and the Idea of Human Nature,* 2019 
 
-#### Social History and Art
 Michael Baxandall, *Limewood Sculptors of Renaissance Germany,* 1980
 * blurb
 
-### Intellectual History of the Concepts of "Art" and "Beauty"
+### History of the Concepts of Art and Beauty
 
 David Konstan, *Beauty: The Fortunes of an Ancient Greek Idea,* 2014
 * blurb
 
-#### The System of Arts Debate
 Paul Oskar Kristeller, "The Modern System of the Arts: A Study in the History of Aesthetics (I)" *Journal of the History of Ideas*, Volume 12, Number 4, October 1951, pages 496-527 
 
-Paul Oskaar Kristeller, "The Modern System of teh Arts: A Study in the History of Aesthetics (II)" *Journal of the History of Ideas*, Volume 13, Number 1, January 1952, pages 17-46  
+Paul Oskar Kristeller, "The Modern System of the Arts: A Study in the History of Aesthetics (II)" *Journal of the History of Ideas*, Volume 13, Number 1, January 1952, pages 17-46  
 * blurb
 
 James I. Porter, "Is Art Modern? Kristeller's Modern System of the Arts Reconsidered" *The British Journal of Aesthetics*, Volume 49, Issue 1, January 2009, pages 1–24
@@ -121,6 +117,7 @@ James I. Porter, "Is Art Modern? Kristeller's Modern System of the Arts Reconsid
 
 James O. Young, "The Ancient and Modern System of the Arts," *The British Journal of Aesthetics*, Volume 55, Issue 1, January 2015, pages 1–17 
 * blurb
+
 
 
 
