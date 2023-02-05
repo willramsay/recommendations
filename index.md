@@ -2,10 +2,10 @@
 
 ## Thinking about Criticism
 C. S. Lewis, *An Experiment in Criticism*, 1961
-* blurb
+* blurb “The Alliterative Metre,” “Dante’s Similes,” “What Chaucer really did to Il Filostrato,” “Variation in Shakespeare and Others,” "Hamlet: The Prince or the Poem?", The Vision of John Bunyan," “A Note on Jane Austen"
 
 Northrop Frye, *A Natural Perspective: The Development of Shakespearean Comedy and Romance*, 1965
-* blurb
+* blurb C. L. Barber, *Shakespeare's Festive Comedy* 
 
 ## Thinking about (European) Literature
 Viktor Shklovsky, *On the Theory of Prose*, 1925
@@ -47,3 +47,62 @@ M. L. West, *Indo-European Poetry and Myth*, 2007
 Walter Cohen, *A History of European Literature: The West and the World from Antiquity to the Present*, 2017
 * blurb
 
+## Thinking about Individual Books'
+
+Jill Mann, *Feminizing Chaucer*, rev. ed., 2002
+* blurb 
+
+Jonas Barish, *Ben Jonson and the Language of Prose Comedy*, 1960
+* blurb Christopher Ricks *Milton's Grand Style*
+
+M. A. Screech, *Erasmus: Ecstasy and the Praise of Folly*, 1980
+* blurb *Montaigne and Melancholy: the Wisdom of the Essay* *Rabelais* *Laughter at the Foot of the Cross* *Some Renaissance Studies* Barbara Bowen, *Enter Rabelais, Laughing* 
+
+Jasper Griffin, *Homer on Life and Death*, 1980
+* blurb Mark Edwards, *Homer: Poet of the Iliad*
+
+Kathryn B. Feuer, *Tolstoy and the Genesis of War and Peace*, 1996
+* blurb *Dickens at Work* *Wikipedia article on Wodehouse* "criticism as retrieval"
+
+George Hoffmann, *Montaigne’s Career*, 1999
+* blurb *Henry James at Work* 
+
+David Quint, *Inside Paradise Lost: Reading the Designs of Milton’s Epic*, 2014
+* blurb Barbara Lewalski, *Paradise Lost and the Rhetoric of Literary Forms* 
+
+## Thinking about Art
+Ernst Gombrich, *The Story of Art,* 1950 
+* blurb
+
+James Watrous, *The Craft of Old-Master Drawings,* 1957
+* blurb
+
+Ernst Gombrich, *Art and Illusion: A Study in the Psychology of Pictorial Representation,* 1960 
+* blurb
+
+Raymond Klibansky, Erwin Panofksy, and Fritz Saxl, *Saturn and Melancholy: Studies in the History of Natural Philosophy, Religion, and Art*, 1964
+* blurb
+
+Michael Baxandall, *Limewood Sculptors of Renaissance Germany,* 1980
+* blurb
+
+Richard Wollheim, *Painting as an Art,* 1981 
+* blurb
+
+Waldemar Januszczak, *Techniques of the Great Masters of Art*, 1985
+* blurb
+
+David Konstan, *Beauty: The Fortunes of an Ancient Greek Idea,* 2014
+* blurb
+
+#### The System of Arts Debate
+Paul Oskar Kristeller, "The Modern System of the Arts: A Study in the History of Aesthetics (I)" *Journal of the History of Ideas*, Volume 12, Number 4, October 1951, pages 496-527 
+
+Paul Oskaar Kristeller, "The Modern System of teh Arts: A Study in the History of Aesthetics (II)" *Journal of the History of Ideas*, Volume 13, Number 1, January 1952, pages 17-46  
+* blurb
+
+James I. Porter, "Is Art Modern? Kristeller's Modern System of the Arts Reconsidered" *The British Journal of Aesthetics*, Volume 49, Issue 1, January 2009, pages 1–24
+* blurb
+
+James O. Young, "The Ancient and Modern System of the Arts," *The British Journal of Aesthetics*, Volume 55, Issue 1, January 2015, pages 1–17 
+* blurb
