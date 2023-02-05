@@ -91,6 +91,8 @@ Waldemar Januszczak, *Techniques of the Great Masters of Art*, 1985
 
 ### Some Major Studies
 
+John Ruskin, *Modern Painters*, 1843–1860
+
 Ernst Gombrich, *Art and Illusion: A Study in the Psychology of Pictorial Representation,* 1960 
 * blurb [here](https://www.phaidon.com/store/art/the-story-of-art-9780714832470/)
 
