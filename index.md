@@ -82,7 +82,7 @@ Waldemar Januszczak, *Techniques of the Great Masters of Art*, 1985
 ### Some Major Studies
 
 Ernst Gombrich, *Art and Illusion: A Study in the Psychology of Pictorial Representation,* 1960 
-* blurb
+* blurb [here](https://www.phaidon.com/store/art/the-story-of-art-9780714832470/)
 
 Richard Wollheim, *Painting as an Art,* 1981 
 * Paul Guyer: "Richard Wollheim (1923–2003) drew on
