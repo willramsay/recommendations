@@ -1,8 +1,12 @@
 # Recommended Books on Literature and Art
 [Thinking about Criticism](#thinking-about-criticism)
-[Thinking about (European) Literature](#thinking-about-(european)-literature)
+
+[Thinking about (European) Literature](#thinking-about-european-literature)
+
 [Thinking about Individual Books](#thinking-about-individual-books)
-[Thinking about (European) Art](#thinking-about-(european)-art)
+
+[Thinking about (European) Art](#thinking-about-european-art)
+
 ## Thinking about Criticism
 C. S. Lewis, *An Experiment in Criticism*, 1961
 * blurb “The Alliterative Metre,” “Dante’s Similes,” “What Chaucer really did to Il Filostrato,” “Variation in Shakespeare and Others,” "Hamlet: The Prince or the Poem?", The Vision of John Bunyan," “A Note on Jane Austen"
