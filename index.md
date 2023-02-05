@@ -47,7 +47,7 @@ M. L. West, *Indo-European Poetry and Myth*, 2007
 Walter Cohen, *A History of European Literature: The West and the World from Antiquity to the Present*, 2017
 * blurb
 
-## Thinking about Individual Books'
+## Thinking about Individual Books
 
 Jill Mann, *Feminizing Chaucer*, rev. ed., 2002
 * blurb 
