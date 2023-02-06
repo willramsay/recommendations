@@ -92,6 +92,7 @@ Waldemar Januszczak, *Techniques of the Great Masters of Art*, 1985
 ### Some Major Studies
 
 John Ruskin, *Modern Painters*, 1843–1860
+* Fri., Mar. 11. 1831 &mdash; At dinner with Goethe, talked on various subjects. “It is a peculiarity of Walter Scott's,” said he, “that his great talent in representing details often leads him into faults. Thus, in ‘Ivanhoe,’ there is a scene where they are seated at a table in a castle-hall, at night, and a stranger enters. Now, he is quite right in describing the stranger's appearance and dress, but it is a fault that he goes to the length of describing his feet, shoes, and stockings. When we sit down in the evening, and some one comes in, we see only the upper part of his body. If I describe the feet, daylight enters at once, and the scene loses its nocturnal character.” - Eckermann, Conversations with Goethe
 
 Ernst Gombrich, *Art and Illusion: A Study in the Psychology of Pictorial Representation,* 1960 
 * blurb [here](https://www.phaidon.com/store/art/the-story-of-art-9780714832470/)
