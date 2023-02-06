@@ -1,11 +1,8 @@
 # Recommended Books on Literature and Art
-[Thinking about Criticism](#thinking-about-criticism)
-
-[Thinking about (European) Literature](#thinking-about-european-literature)
-
-[Thinking about Individual Books](#thinking-about-individual-books)
-
-[Thinking about (European) Art](#thinking-about-european-art)
+* [Thinking about Criticism](#thinking-about-criticism)
+* [Thinking about (European) Literature](#thinking-about-european-literature)
+* [Thinking about Individual Books](#thinking-about-individual-books)
+* [Thinking about (European) Art](#thinking-about-european-art)
 
 ## Thinking about Criticism
 C. S. Lewis, *An Experiment in Criticism*, 1961
